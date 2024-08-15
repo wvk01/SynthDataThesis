@@ -49,7 +49,7 @@ def preprocess_text(text):
     return ' '.join(tokens)
 
 # Load the data
-input_csv = '../../data/news_data/raw/synthetic/fs2_n3000_v2.csv'
+input_csv = '../../data/news_data/raw/synthetic/fs2_n3000.csv'
 output_csv = '../../data/news_data/preprocessed/synthetic/processed_fs2_n3000.csv'
 df = pd.read_csv(input_csv)
 

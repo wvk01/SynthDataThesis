@@ -2,8 +2,5 @@ pandas
 matplotlib
 scikit-learn
 nltk
-# contractions --> included in preprocessing or not?
-# graphviz --> visuzalization of DT
-matplotlib # for visualization of DT
 python-dotenv # for api key
 requests
